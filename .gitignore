@@ -1,0 +1,8 @@
+# .gitignore
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+*.pickle
+*.h5
+.DS_Store
